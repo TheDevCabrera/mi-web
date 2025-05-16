@@ -1,2 +1,2 @@
 # mi-web
-Este repositorio es para practicar el flujo de GitHub
+Este repositorio web-dev
